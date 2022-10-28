@@ -1,0 +1,37 @@
+.product_container{
+    margin: auto;
+    width: 95%;
+    padding-left: 5%;
+    background-color: aqua;
+    display: flex;
+}
+
+.product_card{
+    width: 250px;
+    height: 480px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: blue;
+    border: 1px solid black; 
+    border-radius: 5px;   
+}
+productcard_container a{
+    color: white;
+}
+
+.product_card img{
+    height: 60%;
+    width: 250px;
+}
+.product_card button {
+    background-color: rgb(56, 54, 52);
+    
+}
+
+.first{
+    padding-left: 20px;
+}
+.first label {
+    margin-left: 20px; 
+}
